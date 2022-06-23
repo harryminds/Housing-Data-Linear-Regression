@@ -1,0 +1,2 @@
+{"yelp_api":"qOnd_FHa_hTwNN83vc2M4LNyMQ1QB7TYazd06QnGPlaAZpI08f2Duc6JJetu6fhCkKEE2rqHuV0ZoomsftZcJNaA4oCeGdTDpTMAPgsEphEu2gEhOzrdkUpGXyOzYnYx",
+"mapbox_api":"pk.eyJ1Ijoicm9sbGluZ3N0b3JtcyIsImEiOiJjazNwOHpwcTgwMG9zM29sZmdhMzlwa25wIn0.Znc9yrm5VD10YK36XqXPIw"}
