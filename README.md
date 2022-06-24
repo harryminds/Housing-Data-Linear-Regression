@@ -42,10 +42,12 @@ Apart from making an accurate prediction, I hope this notebook can be a tool tha
  
 # Summary
 
-Compared to other linear regression models on housing data around the web, this model did not have a high R2 score nor is it the most accurate predictor of price. I can say that the model is fairly accurate in predicting the ballpark price for a house, and I think that the bias and irreducible error in this model is high.
+Compared to other linear regression models on housing data around the web, this model did not have the highest R2 score nor is it the most accurate predictor of price. I can say that the model is fairly accurate in predicting the ballpark price for a house, and I have determined that the variance and irreducible error in this model is high.
 
-There are many factors that could lead to high irreducible error in this model and I think one is the volatility of the current housing market. Pandemic spending and panic buying was high during 2020, but the housing market is still extremely 'hot' and houses are being valued for higher and higher prices every day. With remote work and coronavirus variants still possible for the near future, houses in rural areas are still in high demand. I believe that this can be factored into why this model was unable to better predict price.
+There are many factors that could lead to high irreducible error in this model and I think one is the volatility of the current housing market. Pandemic spending and panic buying was high during 2020, but the housing market is still extremely 'hot' and houses are being valued for higher and higher prices every day. With remote work and coronavirus variants still possible for the near future, houses in rural areas are still in high demand. I believe that this can be factored into why this model was unable to predict a more accurate price.
 
-On the other hand, this model is mostly designed to be used as a predictive tool for first time buyers to better navigate a searing hot market and find an affordable, and smart investment. There are houses being undersold and undervalued everyday, and this model can help to find where those properties are.
+Another factor I have considered, is that the model is accurate but the price of a home flucuates widely. Price is determined by the buyer and seller, not by predictive variables. If a seller and a buyer agree to a price, it may not follow the mean or any logic necessarily. The model may not be accurate, but we cannot determine that the price is representative of the actual value of the home.
+
+Apart from achieving high accuracy of results, this model is mostly designed to be used as a predictive tool for first time buyers to better navigate a searing hot market and find an affordable, and smart investment. There are houses being undersold and undervalued everyday, and this model can help to find where those properties are.
 
 I am fairly happy with the results of this model and look forward to adding a validation set of houses still for sale and try to predict whether their list price is under or overvalued.
