@@ -1,6 +1,12 @@
 # Using Linear Regression to Predict Undervalued Homes  In Dutchess County, NY
 
-![](img/house.png)
+# Model Files
+
+Main Notebook - model.ipynb
+Data Scraper - Dutchess County Residental Sales Scraper.ipynb
+Places Scraper - Get Nearby Places from Yelp API.ipynb
+
+![](img/house.jpg)
 
 ## Project Description
 
